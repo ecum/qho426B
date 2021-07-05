@@ -1,5 +1,21 @@
 {
   "files": {
+    "basic/output/arcii_art .py": [
+      {
+        "id": "f0317fe0-7413-42c7-858b-6ff6e6d697c8",
+        "line": 5,
+        "version": 114,
+        "index": 75
+      }
+    ],
+    "basic/output/ascii_art .py": [
+      {
+        "id": "a6a8169a-8ef8-4838-a58d-1b4c746502a8",
+        "line": 5,
+        "version": 3,
+        "index": 75
+      }
+    ],
     "basic/output/simply_message.py": [
       {
         "id": "5b5585d4-f0e3-4cb5-b021-c8921b7bfbaf",
