@@ -1,0 +1,7 @@
+print("Please enter the character for the eye")
+eye = input()
+print("Beep's expressoins is  now as follow :")
+print("##########")
+print("#  {}".format(eye)," {}  #" .format(eye))
+print("#  ----  #")
+print("##########")
