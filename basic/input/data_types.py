@@ -1,0 +1,15 @@
+#print("digite uma data de nascimento")
+#nascimento = input()
+#print(type(nascimento))
+#print("vamos converter nascimento de string para integer", 
+#print(int(nascimento) + 1)
+print("What is your name human ?")
+name = input()
+print("How old are you?")
+age = int(input())
+print("How tall are you?")
+height = float(input()) 
+print("How much do you weight ?")
+kilograms = float(input() )
+bmi = kilograms/height**2
+print(" {} you are {} year old and your bmi is {:.2f}".format(name , age , bmi ))
