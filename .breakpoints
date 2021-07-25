@@ -20,7 +20,23 @@
       {
         "id": "5b5585d4-f0e3-4cb5-b021-c8921b7bfbaf",
         "line": 1,
-        "version": 47,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "decisions": [
+      {
+        "id": "5566003c-3060-43d8-9460-fab75fd67156",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "fd8e8945-4747-4679-a3a9-30a8d0b3728b",
+        "line": 1,
+        "version": 220,
         "index": 0
       }
     ]
