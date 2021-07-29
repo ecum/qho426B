@@ -1,4 +1,12 @@
-print("What type of book is this?")
-book_type = input()
+#Ask user for the type of activity
+print("Please enter the activity to be performed")
+activity= input()
 
-print(" five")
+#Determine if the activityis calculate
+if (activity == "calculate"):
+  print("\nPerforming calculations...")
+else:
+  print("\nPerforming activity...")  
+
+  #Display messsage
+print("\nActivity completed")
